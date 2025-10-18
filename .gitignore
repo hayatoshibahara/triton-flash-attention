@@ -1,3 +1,4 @@
 example
 *.log
 .devcontainer
+.DS_Store
